@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # ml_lab-07-08
-=======
-# Laboratoarele 7 & 8
+## Laboratoarele 7 & 8
 ### Studentul: Trandafir Florin-Daniel, IASD 2601
 #### Conditii:
 * Ro_07_SVM_Kernels_Exercises.ipynb
@@ -11,5 +9,3 @@
 * 08_Trandafir.ipynb
 #### Data set:
 Wine_Quality_Data.csv
-
->>>>>>> 00ee831 (01)
